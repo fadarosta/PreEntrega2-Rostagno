@@ -1,4 +1,5 @@
 import './App.css'
+import ItemCount from './Components/itemCount/itemCount'
 import ItemListContainer from './Components/itemListContainer/itemListContainer'
 import NavBar from './Components/NavBar/NavBar'
 function App () {
@@ -6,6 +7,7 @@ function App () {
     <>
     <NavBar/>
     <ItemListContainer greeting={'Yoguini,'}/>
+    <ItemCount/>
     </>
   )
 }
