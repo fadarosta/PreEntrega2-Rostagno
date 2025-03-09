@@ -1,0 +1,22 @@
+{
+    "estilosDeYoga": [
+        {
+            "id": 1,
+            "title": "Hatha Yoga",
+            "price": "Un estilo suave y accesible para todos.",
+            "pictureUrl": ,
+        },
+        {
+            "id": 2,
+            "title": "Vinyasa Yoga",
+            "price": "Flujo dinámico de posturas sincronizado con la respiración.",
+            "pictureUrl": ,
+        },
+        {
+            "id": 3,
+            "title": "Ashtanga Yoga",
+            "price": "Una práctica intensa y estructurada.",
+            "pictureUrl": ,
+        }
+    ]
+}
